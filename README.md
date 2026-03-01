@@ -1,5 +1,6 @@
 # 🔍 Social Media ID Cheatsheet
-Guia prático para encontrar IDs de perfil de usuário usando código-fonte & ferramentas OSINT. 
+
+Guia prático para encontrar o ID de perfil de usuário usando código-fonte da página & ferramentas OSINT. 
 
 ---
 
