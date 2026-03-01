@@ -1,4 +1,4 @@
-# 🌐 TIKTOK
+## 🌐 TIKTOK
 
 ### 📱 Acessar código fonte pelo celular
   1. Digite na barra de endereço: `view-source:https://www.tiktok.com/@NOME_DO_USUARIO`
