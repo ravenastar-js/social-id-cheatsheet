@@ -13,7 +13,8 @@ Guia prático para extração e engenharia reversa de IDs únicos em redes socia
   2. **Para pesquisar:** Toque nos **três pontinhos** (canto superior direito) e selecione **"Encontrar na página"**.
 
   ### 💻 Acessar código fonte pelo computador
-  * Pressione `Ctrl + U` (Windows/Linux) ou `Cmd + Option + U` (Mac).
+  1. Pressione `Ctrl + U` 
+  2. Pressione `Ctrl + F`
 
   ### 🔎 Termos para pesquisar
   * `profilepage_`
@@ -39,7 +40,8 @@ Guia prático para extração e engenharia reversa de IDs únicos em redes socia
   2. **Para pesquisar:** Toque nos **três pontinhos** (canto superior direito) e selecione **"Encontrar na página"**.
 
   ### 💻 Acessar código fonte pelo computador
-  * Pressione `Ctrl + U`.
+  1. Pressione `Ctrl + U`
+  2. Pressione `Ctrl + F`
 
   ### 🔎 Termos para pesquisar
   * `webapp..user-detail`
@@ -64,7 +66,8 @@ Guia prático para extração e engenharia reversa de IDs únicos em redes socia
   2. **Para pesquisar:** Toque nos **três pontinhos** (canto superior direito) e selecione **"Encontrar na página"**.
 
   ### 💻 Acessar código fonte pelo computador
-  * Pressione `Ctrl + U`.
+  1. Pressione `Ctrl + U` 
+  2. Pressione `Ctrl + F`
 
   ### 🔎 Termos para pesquisar
   * `"identifier":"`
