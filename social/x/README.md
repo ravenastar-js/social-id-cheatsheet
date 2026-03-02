@@ -9,6 +9,7 @@
   2. Pressione `Ctrl + F`
 
 ### 🔎 Termos para pesquisar
+  * `"user_id":"`
   * `"identifier":"`
 
 ### 🛠️ Ferramentas
