@@ -45,6 +45,8 @@ https://github.com/user-attachments/assets/a9caca56-31a6-40a8-9c5e-87b4c4307460
 </details>
 
 ### 🛠️ Ferramentas
-  * **Pegar ID:** [CommentPicker - TikTok ID](https://commentpicker.com/tiktok-id.php)
-  * **Pegar ID:** [SECGUIDE - TikTok ID Extractor](https://secguide.pages.dev/tools/tiktok-id)
-  * **Engenharia Reversa:** `https://www.tiktok.com/@ID_AQUI`
+  * **Pegar ID:**
+    * [CommentPicker - TikTok ID](https://commentpicker.com/tiktok-id.php)
+    * [SECGUIDE - TikTok ID Extractor](https://secguide.pages.dev/tools/tiktok-id)
+  * **Engenharia Reversa:** 
+    * `https://www.tiktok.com/@ID_AQUI`

@@ -11,6 +11,7 @@ search_terms[2]:
   `"user_id":"`
   `"identifier":"`
 
-tools[2]{name,url}:
+tools[3]{name,url}:
   Postel.app - Twitter ID Converter,https://www.postel.app/twitter-user-id-converter
+  Tweet Hunter - Free Twitter ID Lookup,https://tweethunter.io/twitter-id-converter
   Engenharia Reversa,https://x.com/intent/user?user_id=ID_AQUI

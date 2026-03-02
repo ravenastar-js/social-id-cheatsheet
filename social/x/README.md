@@ -45,5 +45,8 @@ https://github.com/user-attachments/assets/29922d01-d0d6-413b-abfe-19957a72ec76
 
 
 ### 🛠️ Ferramentas
-  * **Pegar ID:** [Postel.app - Twitter ID Converter](https://www.postel.app/twitter-user-id-converter)
-  * **Engenharia Reversa:** `https://x.com/intent/user?user_id=ID_AQUI`
+  * **Pegar ID:**
+     - [Postel.app - Free Twitter ID Lookup](https://www.postel.app/twitter-user-id-converter)
+     - [Tweet Hunter - Free Twitter ID Lookup](https://tweethunter.io/twitter-id-converter)
+  * **Engenharia Reversa:**
+    - `https://x.com/intent/user?user_id=ID_AQUI`
