@@ -12,6 +12,32 @@
   * `"user_id":"`
   * `"identifier":"`
 
+<details>
+<summary><strong> Console web (Ctrl+Shift+K)</strong></summary>
+
+```
+(function() {
+  try {
+    const script = document.querySelector('script[type="application/ld+json"]');
+    if (script) {
+      const data = JSON.parse(script.textContent);
+      if (data['@type'] === 'ProfilePage' && data.mainEntity?.identifier) {
+        const id = data.mainEntity.identifier;
+        console.log('✅ ID do perfil:', id);
+        navigator.clipboard?.writeText(id);
+        return id;
+      }
+    }
+    console.log('❌ ID não encontrado');
+  } catch(e) {
+    console.error('Erro:', e);
+  }
+})();
+```
+</details>
+
+
+
 ### 🛠️ Ferramentas
   * **Pegar ID:** [Postel.app - Twitter ID Converter](https://www.postel.app/twitter-user-id-converter)
   * **Engenharia Reversa:** `https://x.com/intent/user?user_id=ID_AQUI`
