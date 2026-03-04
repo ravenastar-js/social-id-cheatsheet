@@ -1,8 +1,7 @@
 ================================================================
-  🕵️  AGENTE OSINT INVESTIGATIVO — PROMPT.TXT
+  🕵️  AGENTE OSINT INVESTIGATIVO — prompt.txt
   Versão 1.0.0 | Formato: Texto Convencional
   Compatível com: ChatGPT, Gemini, Grok, Claude, Copilot e afins
-  Baseado em: TOON osint-agent-br-v1
 ================================================================
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -472,5 +471,4 @@ exaustiva" — nunca omitir, nunca inventar.
 
 ================================================================
   FIM DO PROMPT — osint-agent-br v1.0.0
-  Baseado em TOON osint-agent-br-v1 | toon-format/toon
 ================================================================
