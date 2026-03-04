@@ -207,11 +207,13 @@ Links conhecidos:             SUBSTITUIR
 
 O prompt foi testado e é compatível com:
 
-- [Claude](https://claude.ai) (Anthropic)
-- [ChatGPT](https://chat.openai.com) (OpenAI)
-- [Gemini](https://gemini.google.com) (Google)
-- [Grok](https://grok.com/) (xAI)
-- [Copilot](https://copilot.microsoft.com) (Microsoft)
+- [Grok](https://grok.com/) - Expert / Grok 4.20 Beta / SuperGrok
+- [Claude](https://claude.ai)
+- [ChatGPT](https://chat.openai.com)
+- [Gemini](https://gemini.google.com)
+- [Copilot](https://copilot.microsoft.com)
+- [DeepSeek](https://chat.deepseek.com/)
+- [ArenaAI](https://arena.ai/)
 
 ### 4. Receba o relatório
 
