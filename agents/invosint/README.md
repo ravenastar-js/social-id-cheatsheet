@@ -97,9 +97,15 @@
 
 ---
 
+> [!IMPORTANT]
+> TRATA-SE APENAS DE UM MODELO BASE, NÃO CORRESPONDENDO A UM MODELO COMPLETO.
+
+---
+
 # 🕵️ OSINT Investigative Agent — BR
 
-> **osint-agent-br v1.0.0** · Agente de inteligência de fontes abertas para investigação de perfis públicos brasileiros  
+> **osint-agent-br v1.0.0** · Agente de inteligência de fontes abertas para investigação de perfis públicos brasileiros
+> 
 > Compatível com: ChatGPT · Gemini · Grok · Claude · Copilot e afins
 
 ---
@@ -108,7 +114,9 @@
 
 O **OSINT Investigative Agent** é um prompt projetado para transformar qualquer LLM em um investigador OSINT de nível expert. O agente realiza investigações completas, profundas, precisas e replicáveis sobre perfis públicos, com foco no contexto brasileiro.
 
-Ele adapta automaticamente a metodologia para qualquer tipo de alvo: médicos, advogados, psicólogos, coaches, influenciadores, empresários, ONGs, profissionais de infosec e muito mais.
+Ele adapta automaticamente a metodologia para qualquer tipo de alvo: médicos, advogados, psicólogos, coaches, influenciadores, empresários, ONGs, profissionais de infosec e muito mais. 
+
+> TRATA-SE APENAS DE UM MODELO BASE, NÃO CORRESPONDENDO A UM MODELO COMPLETO.
 
 ---
 
