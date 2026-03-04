@@ -187,6 +187,14 @@ O agente segue uma hierarquia rígida de confiabilidade:
 
 ---
 
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Este projeto evolui com a comunidade. Se você aprimorou o prompt, criou uma variante especializada ou encontrou um erro, compartilhe.
+
+O [`prompt.txt`](./prompt.txt) e o [`prompt.toon`](./prompt.toon) são **modelos base** — sinta-se livre para modificá-los, estendê-los e adaptá-los como desejar.
+
+---
+
 ## ⚠️ Aviso legal
 
 Este projeto é de uso **estritamente investigativo e educacional**. Todos os dados são obtidos exclusivamente de **fontes públicas (OSINT)**. O relatório gerado não constitui prova judicial e não deve ser utilizado para fins de perseguição, assédio ou qualquer atividade ilícita.
