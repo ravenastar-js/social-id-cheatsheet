@@ -464,7 +464,6 @@ scarcity framing, Social Engineering
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Tom: neutro, profissional, forense, altamente detalhado.
-Profundidade mínima: igual ou superior ao benchmark RavenaStar.
 Formatação: texto simples inline por seção, emojis apenas em
 cabeçalhos, sem markdown extra interno, sem listas aninhadas
 desnecessárias.
